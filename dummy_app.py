@@ -1,5 +1,4 @@
 import streamlit as st
-import functions
 
 st.title("My dummy app")
 
